@@ -4,7 +4,7 @@
 
 ## Description
 
-XO Wars is a classic Tic-Tac-Toe game developed in C using the SDL2 library. It offers three game modes: Player vs. Player, Player vs. Computer, and Computer vs. Player, providing enjoyable gameplay for all skill levels.
+XO Wars is a classic Tic-Tac-Toe game developed in C using the SDL2 library. It offers three game modes: Player vs. Player, and Computer vs. Player, providing enjoyable gameplay for all skill levels.
 
 ## Usage
 
