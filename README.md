@@ -12,7 +12,7 @@ XO Wars is a classic Tic-Tac-Toe game developed in C using the SDL2 library. It 
 
 ```bash
 cc -o XOwars XOwars.c -lSDL2 -lSDL2_ttf -lm
-
+```
 Run the game:
 
 ```bash
