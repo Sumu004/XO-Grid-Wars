@@ -24,8 +24,3 @@ Use number keys to select game modes:
 Press 1 for Player vs. Player.
 Press 3 for Computer vs. Player.
 Click on the grid to make your move and enjoy the game!
-
-# Author
-
-Sumukh C
-
